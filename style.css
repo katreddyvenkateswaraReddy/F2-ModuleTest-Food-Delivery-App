@@ -577,6 +577,10 @@ footer {
   transition: all 0.4s ease-in-out;
 }
 
+.brands-color:hover {
+  color: #0A65FE;
+}
+
 #emailInput {
   width: 55%;
 }
